@@ -13,7 +13,7 @@
     "fs": "^0.0.1-security",
     "json2csv": "^5.0.1",
     "limiter": "^1.1.5",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "node-fetch": "^2.6.0",
     "nodemon": "^2.0.4",
     "request": "^2.88.2",
